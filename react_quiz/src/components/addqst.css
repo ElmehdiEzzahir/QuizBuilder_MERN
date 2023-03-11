@@ -1,0 +1,164 @@
+
+.form2div
+{
+    display: flex;
+    text-align: center;
+    width: 98%;
+    height: 400px;
+    margin: 10px;
+    /* outline: solid 1px black; */
+
+justify-content: center;
+align-items: center;
+}
+.form2
+{
+    border: solid 1px black;
+    padding: 50px;
+    width: 580px;
+    display: block;
+}
+.all_cont{
+display: flex;
+flex-wrap: wrap;
+text-align: center;
+    justify-content: center;
+align-items: center;
+}
+.Qst_container{
+    display: block;
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    margin: 15px;
+    
+}
+.spn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.btn_container a{
+    margin: 10px;
+    text-decoration: none;
+    border: solid 1px black;
+    color: black;
+    padding: 5px;
+}
+.btn_container button{
+    margin: 10px;
+    text-decoration: none;
+    border: solid 1px black;
+    color: black;
+    padding: 5px;
+}
+.btn_container button:hover{
+   background-color: black;
+   color: white;
+}
+
+.btn_container a:hover{
+    background-color: black;
+    color: white;
+}
+.all h1{
+    margin: 15px;
+}
+.all a{
+    text-decoration: none;
+    border: solid 1px black;
+    color: black;
+    padding: 5px;
+}
+.all a:hover{
+    background-color: black;
+    color: white;
+}
+.Qwiz_container{
+    display: block;
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    margin: 15px;
+}
+
+.title{
+    margin: 15px;
+}
+#addqsttoquiz{
+    text-decoration: none;
+    border: solid 1px black;
+    color: black;
+    padding: 5px;
+}
+
+#addqsttoquiz:hover{
+    background-color: black;
+    color: white;
+}
+.quiz{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    margin: 15px;
+   
+}
+.all_cont_qst{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+        justify-content: center;
+    align-items: center;
+}
+
+.all_cont_etu{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+        justify-content: center;
+    align-items: center;
+}
+.etu{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    margin: 15px;
+}
+#addetu{
+    background-color: black;
+    color: white;
+}
+#addetu:hover{
+    background-color: black;
+    color: white;
+}
+
+#h3{
+    margin: 15px;
+
+}
+
+.psquiz{
+    display: block;
+    flex-wrap: wrap;
+    text-align: center;
+        justify-content: center;
+    align-items: center;
+    }
+    .psquiz input{
+        margin: 8px;
+    }
+
+.score{
+    display: block;
+    
+    text-align: center;
+        justify-content: center;
+    align-items: center;
+}
+.form3
+{
+    /* border: solid 1px black; */
+    padding: 50px;
+    width: 580px;
+    display: block;
+}
